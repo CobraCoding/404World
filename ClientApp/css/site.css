@@ -1,5 +1,16 @@
-.welcome-banner {
-    background-color: darkseagreen
+html,body { height:100%; }
+
+#react-app {
+    background-color: azure;
+    height: 100%;
+}
+
+#nav-logo {
+    max-height: 50px;
+}
+
+.navbar {
+    margin-bottom: 0;
 }
 
 .pad-l-5 {
